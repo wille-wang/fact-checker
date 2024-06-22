@@ -17,7 +17,7 @@ The data used in this project are sourced from COMP90042, University of Melbourn
 
 <img src="img/label-distribution.png" alt="label-distribution" width="400"/>
 
-The original task's test set is unlabeled, so this project used its development/validation set as the test set.
+The original task's test set is unlabeled, so this project used its development/validation set as the test set for evaluation.
 
 ## Project Background
 
