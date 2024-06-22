@@ -12,8 +12,8 @@ The data used in this project are sourced from COMP90042, University of Melbourn
 
 ## Result
 
-- test set accuracy: 0.49
-- test set F1 score: 0.46
+- test set accuracy: 0.57
+- test set F1 score: 0.55
 
 <img src="img/label-distribution.png" alt="label-distribution" width="400"/>
 
