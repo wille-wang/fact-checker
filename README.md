@@ -12,12 +12,12 @@ The data used in this project are sourced from COMP90042, University of Melbourn
 
 ## Result
 
-- validation accuracy: 0.49
-- validation F1 score: 0.46
+- test set accuracy: 0.49
+- test set F1 score: 0.46
 
 <img src="img/label-distribution.png" alt="label-distribution" width="400"/>
 
-This project did not use a traditional training-validation/test split because the original task's test set lacks labels. Training was performed on the training set, while evaluation was conducted on the development set.
+The original task's test set is unlabeled, so this project used its development/validation set as the test set.
 
 ## Project Background
 
