@@ -1,6 +1,6 @@
 # Fact Checker for Climate
 
-This repository aims to create a machine fact checker for climate claims, utilizing BERT for embedding creation and fine-tuning. Given a set of ground truths stored in (`evidence.json`, which was not uploaded due to its large size), the fact checker classifies climate-related claims into four categories: `REFUTES`, `SUPPORTS`, `DISPUTED`, and `NOT_ENOUGH_INFO`.
+This repository aims to create a machine fact checker for climate claims, utilizing BERT for embedding creation and fine-tuning. Given a set of ground truths stored in `evidence.json` (which was not uploaded due to its large size), the fact checker classifies climate-related claims into four categories: `REFUTES`, `SUPPORTS`, `DISPUTED`, and `NOT_ENOUGH_INFO`.
 
 ## Data
 
